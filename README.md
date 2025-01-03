@@ -8,3 +8,4 @@
 
 > - Model AI
 > - Library discord
+> - Data set Gambar
