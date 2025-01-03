@@ -2,5 +2,4 @@
 
 ## This is my project Idea:
 
-> Climate change planner
->   orang akan membuat goals yang mereka ingin capaikan untuk membantu lingkungan mereka.
+> Bikin bot discord yang mampu memberi arahan kepada penggunanya untuk mencegah perubahan iklim.
