@@ -1,5 +1,10 @@
 # Climate-Project
 
-## This is my project Idea:
+## Description
 
-> Bikin bot discord yang mampu memberi arahan kepada penggunanya untuk mencegah perubahan iklim.
+> Bikin bot discord yang mampu memberi tips tips untuk menumbuhkan pohon-pohon dan tanaman.
+
+## Materials
+
+> Model AI
+> Library discord
