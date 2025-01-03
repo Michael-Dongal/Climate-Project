@@ -6,5 +6,5 @@
 
 ## Materials
 
-> Model AI
-> Library discord
+> - Model AI
+> - Library discord
